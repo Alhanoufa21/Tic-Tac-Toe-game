@@ -4,3 +4,8 @@ The objective of this project is to build a Tic-Tac-Toe game using adversarial S
 
 
 ![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/d4bc0db6-cd86-4620-a160-f25ced0fa3d6)
+
+
+
+![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/e462bc5a-e238-4229-b7b6-b0e6ed57aafb)
+
