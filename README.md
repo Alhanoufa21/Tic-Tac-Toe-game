@@ -15,11 +15,26 @@ This project involves creating a classic Tic-Tac-Toe game where two players take
 ### MinMax Algorithm
 The MinMax algorithm is a recursive algorithm used to choose an optimal move for a player assuming that the opponent is also playing optimally.
 
+✅Min-Max algorithm :
+
+
+![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/df12ac3a-4662-48f9-95f7-12682069ce08)
+
+
+
 ### Alpha-Beta Pruning
 Alpha-Beta pruning is an optimization technique for the MinMax algorithm that reduces the number of nodes evaluated in the search tree.
 
+✅Alpha-Beta pruning algorithm :
+
+
+![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/80d262d9-2986-468e-991d-b1fd6f0a3552)
+
+
+
 ## Screenshots
 Here are some screenshots of the game in action:
+
 1)
 ![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/d4bc0db6-cd86-4620-a160-f25ced0fa3d6)
 
