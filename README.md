@@ -43,3 +43,5 @@ Here are some screenshots of the game in action:
 ![image](https://github.com/Alhanoufa21/Tic-Tac-Toe-game/assets/117589529/e462bc5a-e238-4229-b7b6-b0e6ed57aafb)
 
 
+## Skills: 
+Adversarial Search Algorithms · Problem Solving · Python ( Programming language)
